@@ -50,7 +50,7 @@ Queries sample to run and test on browser using GraphiQL.
 
 Get all links
 
-```json
+```
 {
 	allLinks {
     id
@@ -63,7 +63,7 @@ Get all links
 ### GraphQL Mutation
 Create a link
 
-```json
+```
 mutation {
   createLink(
     url: "http://www.google.com",
