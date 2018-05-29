@@ -1,5 +1,7 @@
 # Hello World Absinthe GraphQL
 
+The example was created following this https://www.howtographql.com/graphql-elixir.
+
 ## Techs Involved
 
 - PostGres as database
